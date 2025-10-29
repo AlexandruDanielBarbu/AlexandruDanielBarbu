@@ -22,7 +22,7 @@
 
 ### 🌐 Find me elsewhere
 - GitLab: [gitlab.cs.pub.ro/alexandru.barbu2809](https://gitlab.cs.pub.ro/alexandru.barbu2809)
-- GitHub: [github.com/@AlexandruDanielBarbu](https://github.com/@AlexandruDanielBarbu)
+- GitHub: [github.com/@AlexandruDanielBarbu](https://github.com/AlexandruDanielBarbu)
 
 ---
 
