@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @AlexandruDanielBarbu
-- 👀 I’m interested in complex software and game development  
-- 🌱 I’m currently learning C++  
-- 💞️ I’m looking to collaborate on open-source projects  
-- ⚡ Fun fact: I love challenges.  
+# [Alexandru Daniel Barbu]
+@AlexandruDanielBarbu
 
-<!---
-- 🐈 Secondary Account: @ 
-- 📫 How to reach me 
-AlexandruDanielBarbu/AlexandruDanielBarbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science & Engineering student at National University of Science and Technology Politehnica Bucharest (UNSTPB), Faculty of Automatic Control and Computer Science  
+💡 I get the job done.  
+💻 Interested in systems, performance, and computer graphics.
+
+---
+
+### 🧭 Interests
+- Low-level programming (C / C++)  
+- Game engines and rendering pipelines  
+- Vulkan API  
+- Performance optimization and system design  
+- Physics-based simulation — mechanics, motion, and forces 
+---
+
+### 🧩 Projects
+- 🛠️ **RexCore - Vulkan Game Engine (WIP)** — personal project meant to become a foundation for learning and improving as a programmer.
+
+---
+
+### 🌐 Find me elsewhere
+- GitLab: [gitlab.cs.pub.ro/alexandru.barbu2809](https://gitlab.cs.pub.ro/alexandru.barbu2809)
+- GitHub: [github.com/@AlexandruDanielBarbu](https://github.com/@AlexandruDanielBarbu)
+
+---
+
+> Minimal words, meaningful work.
