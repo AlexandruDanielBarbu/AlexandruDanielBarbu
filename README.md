@@ -1,4 +1,4 @@
-# [Alexandru Daniel Barbu]
+# Alexandru Daniel Barbu
 @AlexandruDanielBarbu
 
 🎓 Computer Science & Engineering student at National University of Science and Technology Politehnica Bucharest (UNSTPB), Faculty of Automatic Control and Computer Science  
